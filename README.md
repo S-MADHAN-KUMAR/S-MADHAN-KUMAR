@@ -3,6 +3,9 @@
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" >
 
+<h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
+<h3 align="center">Passionate FullStack Web Developer I Node.JS I MongoDB I JavaScript.JS I React.js</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-madhan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="s-madhan-kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -18,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhan---kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhan---kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/madhan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhan kumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/afdraroksl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/afdraroksl/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
