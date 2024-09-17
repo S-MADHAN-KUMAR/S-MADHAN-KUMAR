@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
-<h3 align="center">Passionate FullStack Web Developer I Node.JS I MongoDB I JavaScript.JS I React.js</h3>
+<h3 align="center">Passionate FullStack Web Developer I Node.JS I MongoDB I JavaScript I React.js</h3>
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" >
 
