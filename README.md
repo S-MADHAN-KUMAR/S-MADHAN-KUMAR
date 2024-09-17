@@ -27,9 +27,3 @@
 
 [![Leetcode Status](https://leetcard.jacoblin.cool/aFdraRoKsl?ext=contest&theme=dark)](https://leetcode.com/u/aFdraRoKsl/)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-madhan-kumar&show_icons=true&locale=en&layout=compact" alt="s-madhan-kumar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-madhan-kumar&show_icons=true&locale=en" alt="s-madhan-kumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-madhan-kumar&" alt="s-madhan-kumar" /></p>
