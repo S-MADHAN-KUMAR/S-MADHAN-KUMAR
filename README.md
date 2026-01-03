@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
 <h3 align="center">Passionate FullStack Web Developer I Node.JS I MongoDB I JavaScript I React.js</h3>
 
-<!-- <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" > -->
-
-<img
-  src="https://i.pinimg.com/originals/2f/5a/fd/2f5afd0b9e21e279dff832cd706f22ee.gif"
-  style={{ width: 100 }}
-/>
-
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  > 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-madhan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="s-madhan-kumar" /> </p>
 
