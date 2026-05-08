@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  > 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-madhan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="s-madhan-kumar" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=s-madhan-kumar&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/ce/13/d8/ce13d8fa9d17ec31e7b80934f46f8f6f.gif)" alt="s-madhan-kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
