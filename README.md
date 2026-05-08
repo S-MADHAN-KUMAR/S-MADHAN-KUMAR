@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm MADHAN KUMAR</h1>
-<h3 align="center">Passionate FullStack Web Developer I Node.JS I MongoDB I JavaScript I React.js</h3>
-
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=HI+%F0%9F%91%8B+I'M+MADHAN+KUMAR;FULL+STACK+WEB+DEVELOPER;MERN+STACK+%7C+REACT+%7C+NODEJS"
+/>
  <img src="https://camo.githubusercontent.com/933c87f0fa9b29d3b4fc359c7aacd9c7f8ca27786818c19feb382ea013abdba5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f31332f64382f63653133643866613964313765633331653762383039333466343666386636662e676966"  width="100%"   > 
 
 
